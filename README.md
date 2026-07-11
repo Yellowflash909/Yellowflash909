@@ -1,4 +1,27 @@
-- 👋 Hi, I’m C.Y.N.Pavan kumar
-- 👀 I’m interested in rtl designing and my long term goal is to work on GPUs.
-- 📫 How to reach me niranjanpavankumar79@gmail.com
-- 😄 Pronouns: If you wanna spend without looking at the price then you gotta do work without looking at the clock.
+👋 Hi, I'm C.Y. Niranjan Pavan Kumar
+
+Electronics and Communication Engineering Student
+
+Digital VLSI | RTL Design | FPGA | RISC-V
+
+🚀 Currently Building
+• Single Stage RISC-V Processor
+• Digital LDO Controller
+• FPGA Projects
+
+🛠 Skills
+Verilog HDL
+SystemVerilog
+Vivado
+Cadence Virtuoso
+Git
+Linux
+
+📚 Learning
+RTL Verification
+Computer Architecture
+ASIC Design Flow
+
+📫 Connect
+LinkedIn
+Email
