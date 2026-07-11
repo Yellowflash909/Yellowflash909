@@ -23,5 +23,5 @@ Computer Architecture
 ASIC Design Flow
 
 📫 Connect
-LinkedIn
-Email
+LinkedIn www.linkedin.com/in/c-y-niranjan-pavan-kumar-37b32b282
+Email niranjanpavankumar79@gmail.com
