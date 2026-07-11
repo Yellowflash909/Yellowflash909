@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Yellowflash909
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data science through python and Internet of Things.
+- 👋 Hi, I’m C.Y.N.Pavan kumar
+- 👀 I’m interested in rtl designing and my long term goal is to work on GPUs.
 - 📫 How to reach me niranjanpavankumar79@gmail.com
 - 😄 Pronouns: If you wanna spend without looking at the price then you gotta do work without looking at the clock.
-- ⚡ Fun fact: Coding Bugs were NOT named after an actual bug.
-
-<!---
-Yellowf
